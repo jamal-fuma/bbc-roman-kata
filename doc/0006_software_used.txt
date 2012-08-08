@@ -1,0 +1,12 @@
+Ruby
+Javascript
+Coffeescript
+Shell
+
+Tools used:
+    GNU Make
+    Node.js
+    jsTestDriver
+
+Environment:
+    OSX/Firefox

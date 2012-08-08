@@ -1,0 +1,18 @@
+├── Makefile                    - build system
+├── doc
+│   ├── 0001_approach.txt       - notes on the general approach
+│   ├── 0002_specification.txt  - problem statement
+│   └── 0003_source_layout.txt  - this file
+├── jars
+│   └── JsTestDriver-1.3.4.b.jar  JsTestDriver.jar for javascript unit testing
+├── jsTestDriver.conf           - configuration for the unit test driver
+├── lib
+│   └── roman.js                - coffeescript generated javascript source
+├── lib-tests
+│   └── test_suite.js           - coffeescript generated javascript test suite
+├── ruby
+│   └── roman_number_kata.rb    - ruby version of the kata, for visual comparison with idomatic coffeescript
+├── src
+│   └── roman.coffee            - coffeescript source code for submission
+└── src-tests
+    ├── test_suite.coffee       - coffeescript test suite for verification of solution
